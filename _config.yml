@@ -73,7 +73,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  ZhiHu            : "https://www.zhihu.com/people/93-21-32-38"
+  zhihu            : "https://www.zhihu.com/people/93-21-32-38"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
