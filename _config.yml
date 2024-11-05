@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "CHN"
 title                    : "Luyao, ZHONG / NORTHSI"
 title_separator          : "-"
 name                     : &name "Luyao, ZHONG (Louis)"
 description              : &description "Ph.D. candidate of condensed matter theory (CMT) in HKUST"
 url                      : https://zhly.github.io
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhly.github.io"
+repository               : "northsi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
